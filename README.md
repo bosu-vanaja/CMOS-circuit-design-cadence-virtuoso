@@ -1,2 +1,19 @@
-# CMOS-circuit-design-cadence-virtuoso
-CMOS circuit design and transistor-level simulation using Cadence Virtuoso including inverter, NAND/NOR gates, 6T SRAM cell, and differential amplifier with DC and transient analysis.
+# CMOS Circuit Design & Simulation (Cadence Virtuoso)
+
+## Overview
+Designed and simulated CMOS circuits using Cadence Virtuoso to analyze transistor-level behavior, switching characteristics, and output response.
+
+## Implemented Circuits
+- CMOS Inverter
+- NAND/NOR Gates
+- SRAM
+- Differential Amplifier
+
+## Analysis Performed
+- Transient Analysis
+- DC Analysis
+- Output Response Verification
+- Stability Analysis
+
+## Tools Used
+- Cadence Virtuoso
